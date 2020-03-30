@@ -1,0 +1,3 @@
+D:\data 2\AMIKOM\SEM 2\Pemrograman\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.csprojAssemblyReference.cache
+D:\data 2\AMIKOM\SEM 2\Pemrograman\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.AssemblyInfoInputs.cache
+D:\data 2\AMIKOM\SEM 2\Pemrograman\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.AssemblyInfo.cs
